@@ -1,0 +1,7 @@
+As there is no code required in the acceptance criteria. so please check the status for the tasks.
+
+1. Ensure to verify and pass the IAM security status. - Done
+2. Review Lambda, API gateway, S3, and RDS. - Done
+3. Review aws-sdk and their utilization for SNS and SQS. - Done
+4. Configure your environment with aws configuration. - Done
+5. Use aws-cli to upload a file "first_upload.txt" with text "This is my first upload" to S3. - Done
